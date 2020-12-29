@@ -132,6 +132,8 @@
     {
       "category": "PHP",
       "repos": [
+        "pinoox/pinoox",
+        "pinoox/paper",
         "imanghafoori1/laravel-heyman",
         "imanghafoori1/laravel-widgetize",
         "imanghafoori1/laravel-masterpass",
